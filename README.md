@@ -23,8 +23,8 @@ AI Bookeeper is an AI-powered web app that helps you analyze CSV data with natur
 ### 1. Clone the repo
 
 ```bash
-git clone git@github.com:trevorpoppe/Software_Engineering_Principles.git
-cd Software_Engineering_Principles/AI-Bookeeper
+git clone git@github.com:trevorpoppe/CSV-to-SQLite-Application-with-AI.git
+cd CSV-to-SQLite-Application-with-AI/AI-Bookeeper
 ```
 
 ### 2. Set up the environment
